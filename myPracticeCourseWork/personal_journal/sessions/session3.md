@@ -5,6 +5,8 @@
 ## Topics covered
 *What topics were covered in this session*
 
+DHCP and DNS using vagrant example
+
 
 
 ## Personal Notes and research following this session
